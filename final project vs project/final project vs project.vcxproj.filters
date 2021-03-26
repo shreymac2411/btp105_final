@@ -15,8 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="final project vs project.cpp">
+    <ClCompile Include="fundamentals.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="manipulating.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="converting.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tokenizing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fundamentals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="manipulating.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="converting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tokenizing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

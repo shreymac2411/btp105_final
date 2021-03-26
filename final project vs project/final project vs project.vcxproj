@@ -139,7 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="final project vs project.cpp" />
+    <ClCompile Include="converting.c" />
+    <ClCompile Include="fundamentals.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="manipulating.c" />
+    <ClCompile Include="tokenizing.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="converting.h" />
+    <ClInclude Include="fundamentals.h" />
+    <ClInclude Include="manipulating.h" />
+    <ClInclude Include="tokenizing.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
